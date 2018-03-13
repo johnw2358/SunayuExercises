@@ -1,1 +1,1 @@
-This is a simple example
+This is an example of text with punctation, WoRdS with funky capitalization, numeric words like 410, numeric words with punctuation like 2.71828, typos like forgetting spaces after commas,and words with possesion like John's, and URLs like https://github.com/johnw2358/SunayuExercises/edit/master/wordparsertesttext.txt.
